@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biografia Simples</title>
+</head>
+<body>
+    <h1>Jovanna Soares - Quem sou eu? </h1>
+
+    <p>Meu nome é Jovanna Soares, gosto muito de ler, ouvir musicas, amo gatos, tenho dois. Me interessei muito pela área da tecnologia, por isso entreino curso. Ainda não sei qual área do TI quero seguiir, mas sei que é isso que eu quero</p>
+
+    <h2> Meus Interesses</h2>
+
+     <li><strong>Crochê:</strong> Comecei a pouco tempo, mas ja gosto muito de fazer coisas de crochê éem terapêutico</li>
+     <li><strong>Livros:</strong> Eu amo ler livros de romance, fantasia,  ação e estou comecando a entrar nos comtos de terror </li>
+     <li><strong>Fotografia:</strong>Gosto muito se tirar fotos, amo apreciar as fotos das outraa pessoas, no momento so tiro fotos com o celulae, mas está nos meus planoa comprar uma câmera. </li>
+
+
+
+</body>
+</html>
