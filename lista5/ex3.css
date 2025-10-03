@@ -1,11 +1,11 @@
 .intro {
-  color:yellow;     
+  color:lightgreen;     
   text-align: center;   
-  font-size: 15px;     
+  font-size: 20px;     
 }
 
 .descricao {
-  color: red;       
+  color: darkgreen;       
   text-align: justify;  
-  font-size: 17px;       
+  font-size: 15px;       
 }
