@@ -1,39 +1,60 @@
 
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard Flexbox</title>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./style.css">
-</head>
-<body>
+    <title>Dashboard</title>
+  </head>
+  <body>
     <header class="header">
-        <h1>Meu Dashboard</h1>
+      <h1>Dashboard - Flexbox 📊</h1>
     </header>
-    <main class="main-layout">
-        <aside class="sidebar">
-            <h2>Menu</h2>
-            <ul>
-                <li>Início</li>
-                <li>Relatórios</li>
-                <li>Configurações</li>
-            </ul>
-        </aside>
-        <section class="content">
-            <div class="card destaque">
-                Destaque
-            </div>
-            <div class="card">Card 1</div>
-            <div class="card">Card 2</div>
-            <div class="card">Card 3</div>
-            <div class="card">Card 4</div>
-            <div class="card no-shrink">Sem Encolher</div>
-        </section>
-    </main>
-    <footer class="footer">
-        <p>© 2025 - Dashboard Flexbox</p>
-    </footer>
 
-</body>
+    <div class="container">
+      <nav class="sidebar">
+        <ul>
+          <li><a href="#">Card 1</a></li>
+          <li><a href="#">Card 2</a></li>
+          <li><a href="#">Card 3</a></li>
+          <li><a href="#">Card 4</a></li>
+          <li><a href="#">Card 5</a></li>
+      
+        </ul>
+      </nav>
+
+      <main class="content">
+        <h2 class="title">Dashboard</h2>
+
+        <section class="cards">
+          <div class="card green">
+            <h3>Card 1 - Verde</h3>
+          </div>
+
+          <div class="card yellow">
+            <h3>Card 2  — Amarelo</h3>
+          </div>
+
+          <div class="card red">
+            <h3>Card 3 — Vermelho</h3>
+          </div>
+
+          <div class="card blue">
+            <h3>Card 4  — Azul</h3>
+          </div>
+
+          <div class="card purple">
+            <h3>Card 5 —  Roxo</h3>
+          </div>
+
+          <div class="card white">
+            <h3> Card 6 — Banco</h3>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <footer class="footer">Dashboard — Projeto Flexbox</footer>
+  </body>
 </html>
